@@ -1,10 +1,12 @@
 """
 HIT140 Objective 2 - fit and evaluate the two linear regression models.
 
-Follows the unit's Week 8 and Week 9 materials:
-  Week 8 : train/test split, MAE, MSE, RMSE, NRMSE
-  Week 9 : multiple linear regression, OLS, R2, adjusted R2,
-           and the collinearity assumption check
+S371375 Naresh Kumar Chaudhary
+S408952 Pawan Koirala
+S395858 Mehedi Hasan Limon
+S401527 Rohan Rai 
+S246353 Shahab Uddin 
+
 
 Run build_wc_data.py FIRST so matches_104.csv and teams_208.csv exist.
 """
